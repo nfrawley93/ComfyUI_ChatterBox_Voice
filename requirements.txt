@@ -7,4 +7,4 @@ librosa
 omegaconf
 accelerate
 transformers==4.46.3
-chatterbox-tts
+pip install git+https://github.com/jyo64/chatterbox/tree/master
