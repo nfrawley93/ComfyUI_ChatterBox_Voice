@@ -7,3 +7,4 @@ librosa
 omegaconf
 accelerate
 transformers==4.46.3
+chatterbox-tts
